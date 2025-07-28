@@ -1,6 +1,6 @@
 # 🛡️ Project DisasterTweet: Real-Time Tweet Classifier
 
-**Live Demo:** [Link to your deployed Streamlit App will go here!]
+**Live Demo:** https://projectdisastertweet.streamlit.app
 
 This project is an end-to-end deep learning solution for classifying whether tweets are about real disasters or not. The core of the project is a Bidirectional LSTM model, which is deployed as an interactive web application using Streamlit.
 
