@@ -1,4 +1,4 @@
-# 🛡️ Project DisasterTweet: Real-Time Tweet Classifier
+# 🌏 Project DisasterTweet: Real-Time Tweet Classifier
 
 **Live Demo:** https://projectdisastertweet.streamlit.app
 
