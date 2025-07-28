@@ -16,4 +16,4 @@ This project is an end-to-end deep learning solution for classifying whether twe
 *   **Language:** Python
 *   **Libraries:** TensorFlow (Keras), Scikit-learn, Pandas, NLTK, Streamlit
 *   **Embeddings:** GloVe (Global Vectors for Word Representation)
-*   **Dataset:** [Natural Language Processing with Disaster Tweets]
+*   **Dataset:** [Natural Language Processing with Disaster Tweets](https://www.kaggle.com/competitions/nlp-getting-started/overview)
